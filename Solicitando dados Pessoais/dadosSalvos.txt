@@ -1,9 +1,11 @@
+Usuarios Cadastrados: \n
+
 Nome: Jair Nunes
 E-mail: jairnnf@gmail.com
-Telefone: 85 9 85598036
+Telefone: 85 9 0000-0000
 Nome: Rosa Maria
-E-mail: rm.sousadelima@gmail.com
-Telefone: 85 9 8536-5275
+E-mail: rm.sousaa@gmail.com
+Telefone: 85 9 0000-0000
 Nome: Henrique
 E-mail: henrique@gmail.com
-Telefone: 90903939 9
+Telefone: 00 9 0000-0000
